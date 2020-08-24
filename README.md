@@ -3,10 +3,7 @@ Aquest repositori de GitHub fa referència al Treball de Fi de Màster (TFM) del
 "Aplicació del model d'Ising a la dinàmica de xarxes d'interacció d'agents financers".
 En aquest TFM s'implementa i estudia el treball realitzat per Adam Lipowski en l'aplicació
 del model d'Ising als mercats financers. A partir d'aquest treball, en aquest TFM es proposa un nou model 
-capaç de regular el comportament gregari dels agents. El repositori està format per:
-  calculs
-  figures.ipynb
-  script_julia_ising.ipynb
+capaç de regular el comportament gregari dels agents. El repositori està format per: calculs, figures.ipynb, script_julia_ising.ipynb.
 
 * calculs: fitxer que conté els resultats en format csv de les simulacions numèriques que s'han dut a terme al TFM.
 * figures.ipynb: notebook de Python 3 amb les figures que presenten a la memòria.
